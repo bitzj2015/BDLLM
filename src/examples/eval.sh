@@ -1,0 +1,1 @@
+python eval.py --dataset_name dynhate_sample --model_name outputs/bert_dynhate_ep_4 --score_th 0.087
